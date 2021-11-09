@@ -2,14 +2,14 @@
 layout: default
 img: phd.jpg
 category: Education
-title: PhD in Genetics
-description: 2012-2016
+title: PhD in Electrical Engineering
+description: 2018-2021
 ---
 
 * __2012 - 2016__
-* University of California
-* Thesis Title
+* University of California, Riverside
+* Thesis Applications of synchro-waveform measurements in Power Distribution Systems
 * Description
-* Advisor: Dr. PI Name
+* Advisor: Dr. Hamed Mohsenian-Rad
 * Scholarship from: NSF
 
