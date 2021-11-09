@@ -29,16 +29,16 @@ social:
     url: https://mldizd.github.io/ 
   - icon: envelope-o
     title: email
-    url: mailto:NyName@gmail.com
+    url: mizad001@ucr.edu
   - icon: linkedin
     title: linkedin
     url: https://www.linkedin.com/in/milad-izadi/
 #  - icon: file-pdf-o
 #    title: CV
 #    url: img/MyCV.pdf
-  - icon: twitter
-    title: twitter
-    url: https://twitter.com/MyName
+#  - icon: twitter
+#    title: twitter
+#    url: https://twitter.com/MyName
   - icon: google
     title: GoogleScholar
     url: https://scholar.google.com/citations?user=DdoGj5cAAAAJ&hl=en
