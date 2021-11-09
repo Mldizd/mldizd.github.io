@@ -9,7 +9,7 @@ description: 2018-2021
 * __2012 - 2016__
 * University of California, Riverside
 * Thesis Applications of synchro-waveform measurements in Power Distribution Systems
-* Description
-* Advisor: Dr. Hamed Mohsenian-Rad
-* Scholarship from: NSF
+# * Description
+* Supervisor: Dr. Hamed Mohsenian-Rad
+# * Scholarship from: NSF
 
