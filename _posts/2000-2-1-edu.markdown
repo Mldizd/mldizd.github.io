@@ -2,13 +2,12 @@
 layout: default
 img: master.jpg
 category: Education
-title: Master's in Plant Physiology
+title: Master's in Electrical Engineering
 description: |
 ---
 
-* __2010 - 2012__
-* University of California
-* Dissertation Titile
-* Advisor: Dr. PI Name
-* Scholarship from: NSF
+* __2015 - 2017__
+* Sharif University of Technology
+* Advisor: Dr. Amir Safdarian
+
 
