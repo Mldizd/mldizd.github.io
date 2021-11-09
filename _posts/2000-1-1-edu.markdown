@@ -6,7 +6,7 @@ title: PhD in Electrical Engineering
 description: 2018-2021
 ---
 
-* __2012 - 2016__
+* __2018 - 2021__
 * University of California, Riverside
 * Thesis Applications of synchro-waveform measurements in Power Distribution Systems
 * Supervisor: Dr. Hamed Mohsenian-Rad
