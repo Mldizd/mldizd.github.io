@@ -6,6 +6,6 @@ title: "List of Publications"
 description: |
 ---
 
-- [ResearchGate](https://www.researchgate.net/profile/MyName)
-- [GoogleScholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en)
+- [Milad Izadi and Hamed Mohsenian-Rad, "Synchronous Waveform Measurements to Locate Transient Events and Incipient Faults in Power Distribution Networks," in IEEE Trans. on Smart Grid, accepted for publication, May 2021.](https://intra.ece.ucr.edu/~hamed/IMRjTSG2021.pdf)
+- [GoogleScholar](https://scholar.google.com/citations?user=DdoGj5cAAAAJ&hl=en)
 
